@@ -1,3 +1,2 @@
 # gomall
-gomall project 
-updated
+practice project
